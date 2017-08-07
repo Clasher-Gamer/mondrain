@@ -1,4 +1,4 @@
-# MondrainProject
+# Mondrain Project
 
 ## Step 1: Paint your gallery wall.
 
