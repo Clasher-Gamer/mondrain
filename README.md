@@ -1,6 +1,6 @@
 # MondrainProject
 
-##Step 1: Paint your gallery wall.
+## Step 1: Paint your gallery wall.
 
 ![Step 1](/images/image1.png)
 
@@ -17,7 +17,7 @@ body, html {
 }
 ```
 
-##Step 2: Hang your canvas
+## Step 2: Hang your canvas
 
 ![Step 2](/images/image2.png)
 
@@ -53,7 +53,7 @@ _Our HTML looks like this:_
 
 Divs are tags that help divide and segment a page. You can think of them like boxes that can be styled and positioned using CSS. You can also put stuff inside them, such as text, pictures, and even other divs. They are the basic building blocks of any website and a fundamental part of this project. So get ready to make a lot of them.
 
-##Step 3: Let’s start “div”-ing it up.
+## Step 3: Let’s start “div”-ing it up.
 Now that we have our basic structure, it’s time to define the structure of our painting. It’s very helpful to plan out and divide the work into sections before we begin coding. Positioning and dividing up boxes with **DIVs** and **CSS** is much easier if you’ve already done the math.
 We will be thinking about the works as rows, columns, and boxes. Each one of these will have their own CSS **#id** and one or more corresponding HTML ```<div>```s. Some of them will be visible and colored. Others will be invisible but serve to hold the boxes in proper position and alignment.
 
@@ -82,7 +82,7 @@ _Our HTML looks like this:_
 </body>
 ```
 
-##Step 4: Make the big box
+## Step 4: Make the big box
 Alright, now let’s start adding some of those boxes we talked about. We’ll start with the biggest, most colorful one of them all: the big red box in the upper right.
 + Let’s create another #id for our big red box. This one is a square that takes up the full height of its row. Ours has a width and height of 290px.
 + Once you’ve done that add a corresponding <div> to your HTML within the #toprow <div> you created in the previous step. Remember this box won’t have any color yet. We’ll show you a trick to color it in on the next step.
@@ -106,7 +106,7 @@ _The CSS addition looks like this:_
 }
 ```
 
-##Step 5: Add some color and some class
+## Step 5: Add some color and some class
 
 ![Step 4](/images/image4.png)
 
@@ -154,7 +154,7 @@ To apply the **.red** class to our **#bigbox** DIV, simply add the text **class=
 }
 ```
 
-##Step 6: Float it right
+## Step 6: Float it right
 
 ![Step 6](/images/image6.png)
 
@@ -177,7 +177,7 @@ _And here's what changed in the HTML:_
 Note that an element can only have a single **#id**, but it can have more than one **.class**.
 Floated elements will stack up against each other. This means if we give all the boxes in our rows the .right .class they will float up next to each other and form a nice horizontal row. That’s what we want for the next step.
 
-##Step 7: Add a divider
+## Step 7: Add a divider
 
 ![Step 7](/images/image7.png)
 
@@ -203,7 +203,7 @@ _And our HTML:_
 </body>
 ```
 
-##Step 8: Make a column
+## Step 8: Make a column
 
 ![Step 8](/images/image8.png)
 
@@ -240,7 +240,7 @@ _Our CSS additions look like:_
 
 Since the two boxes are the exact same size we can use one **.class** for both of them instead of using a unique **#id**.
 
-##Step 9: Do the middle row divider
+## Step 9: Do the middle row divider
 
 ![Step 9](/images/image9.png)
 
@@ -264,13 +264,13 @@ Here's the HTML markup. Can you figure out the CSS?
 </body>
 ```
 
-##Step 10: Fill out the bottom row
+## Step 10: Fill out the bottom row
 
 ![Step 10](/images/image10.png)
 
 Now you’re ready to do the last row your self. You have all the pieces and knowledge at your disposal. The process is the same as the top row we just completed just with different sizes and colors. Keep an eye on those little boxes at the right. They’ll need their own column.
 
-##Step 11: Mess around with it
+## Step 11: Mess around with it
 
 ![Step 11](/images/image11.png)
 
