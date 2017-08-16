@@ -266,7 +266,7 @@ Here's the HTML markup. Can you figure out the CSS?
 
 ## Step 10: Fill out the bottom row
 
-![Step 10](/images/image10.png)
+![Step 10](/images/images10.png)
 
 Now you’re ready to do the last row your self. You have all the pieces and knowledge at your disposal. The process is the same as the top row we just completed just with different sizes and colors. Keep an eye on those little boxes at the right. They’ll need their own column.
 
